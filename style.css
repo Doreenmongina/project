@@ -1,0 +1,48 @@
+
+ 
+    table {
+        border-collapse: collapse;
+        width: 60%;
+        height: 25%; 
+    }
+        .cap{
+        text-align: center;
+        font-style: italic;
+
+    }
+
+    table, td {
+        border: 1px solid black; 
+    }
+
+    .text{
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+        font-size: 35px; 
+        font-weight: bold;
+        word-spacing: 130px;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    td {
+        padding: 3px 0 7px 1px;
+        font-size: 16px; 
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        ;
+    }
+        p{
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-style: italic;
+            letter-spacing: 1.5px;
+            word-spacing: 1px;  
+            padding-left: 350px;
+    }
+    .time{
+        background-color: darkgrey;
+    }
+
+ 
